@@ -1,5 +1,5 @@
 👋 Hi, I’m @fmDXP
-- 👀 I’m interested in Python, C++, Android, Computers, Assembly, Javascript, HTML and CSS
+👀 I’m interested in Python, C++, Android, Computers (ofc) and Assembly!
 
 <!---
 fmDXP/fmDXP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
